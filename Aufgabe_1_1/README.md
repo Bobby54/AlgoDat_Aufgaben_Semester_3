@@ -1,4 +1,4 @@
-#Aufgabe 1.1
+# Aufgabe 1.1
 
 Nutzen Sie eine doppelt verkettete Liste zur Ablage von Stammdaten (Vorname,
 Nachname, Geburtsdatum, fiktive Versicherungsnummer). Implementieren Sie die
