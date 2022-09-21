@@ -1,7 +1,3 @@
-//return type for findElement in class List?
-//Difference between print element and print list
-//fix writeListToDisk
-
 package algodat;
 
 public class Main {
@@ -23,6 +19,6 @@ public class Main {
         //list.printElement();
         //list.printList();
         System.out.println(list.countElements());
-        list.writeListToDisk();
+        //list.writeListToDisk();
     }
 }
